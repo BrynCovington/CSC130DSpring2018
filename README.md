@@ -7,8 +7,8 @@ I am considering a minor in Comp Sci in addition to my Major of Strategic Commun
 Please Enjoy my work! You can find some daily activities, labs and projects for Computer Science 130. 
 P.S. shout out to Ms. Day!!!
 
-DAY 3 
-day 3 file will show you the very early steps of a new programer. The assigment was to create a program to read simple equations and there was an enhancement to add remainders. 
+DAY 3 :
+The file will show you the very early steps of a new programer. The assigment was to create a program to read simple equations and there was an enhancement to add remainders. 
 
-DAY 4
-day 4 file 
+DAY 4 :
+The file will show 
