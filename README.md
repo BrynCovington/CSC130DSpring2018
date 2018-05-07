@@ -31,7 +31,8 @@ The file will show the first exam in which 3 different tasks were given. The fir
 LAB 11: 
 The file will show a game of tic-tac-toe in which two people can play. 
 
-
 Project 1: 
-The file will show a word game 
+The file will show a word game in which you play a variation of hangman. You have a certain amount of moves and can guess a randomy assigned word. 
+
+Thank you so much!
 
