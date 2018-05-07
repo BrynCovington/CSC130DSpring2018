@@ -17,4 +17,10 @@ DAY 7:
 The file will show the conversions of how many days you have been alive based on your birthday which you input. 
 
 DAY 8: 
+The file will show a pop up of cute pictures of baby animals. 
+
+Day 
+
+Project 1: 
+The file will show a word game 
 
