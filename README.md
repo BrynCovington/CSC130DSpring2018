@@ -13,5 +13,8 @@ The file will show you the very early steps of a new programer. The assigment wa
 DAY 4 :
 The file will show Temperature Conversion from Fahrenheit to Celsius and vice versa. 
 
-DAY 5: 
-The file will show 
+DAY 7: 
+The file will show the conversions of how many days you have been alive based on your birthday which you input. 
+
+DAY 8: 
+
