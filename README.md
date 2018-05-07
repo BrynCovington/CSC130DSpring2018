@@ -26,7 +26,11 @@ DAY 14:
 The file will show a meal plan and the amount of card swipes and money that are present in the account. It also shows the amount left should you choose to use a swipe or purchase a meal. 
 
 EXAM 1: 
-The file will show the first exam in which 3 different tasks were given. The first task 
+The file will show the first exam in which 3 different tasks were given. The first task was to input a letter and outprint the ASCII value. The second was to input a temperature and respond a description of what is like outside. The third was a compass and changing the direction based on rotation. 
+
+LAB 11: 
+The file will show a game of tic-tac-toe in which two people can play. 
+
 
 Project 1: 
 The file will show a word game 
