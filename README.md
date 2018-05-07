@@ -22,7 +22,10 @@ The file will show a pop up of cute pictures of baby animals.
 DAY 13: 
 The file will show a bank account where you can withdraw or add money and it will tell you the status of your account. 
 
-DAY 
+DAY 14: 
+The file will show a meal plan and the amount of card swipes and money that are present in the account. It also shows the amount left should you choose to use a swipe or purchase a meal. 
+
+DAY
 
 Project 1: 
 The file will show a word game 
