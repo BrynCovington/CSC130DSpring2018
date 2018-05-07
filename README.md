@@ -19,7 +19,10 @@ The file will show the conversions of how many days you have been alive based on
 DAY 8: 
 The file will show a pop up of cute pictures of baby animals. 
 
-Day 
+DAY 13: 
+The file will show a bank account where you can withdraw or add money and it will tell you the status of your account. 
+
+DAY 
 
 Project 1: 
 The file will show a word game 
